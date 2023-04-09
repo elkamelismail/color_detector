@@ -1,10 +1,10 @@
 import cv2 
 import mediapipe
 import numpy as np
-import cv2
+
 #easy code but it can help us in a lot of things ;)
 def replace_yellow_with_green(image):
-    #you can change the color
+    #you can change the color that you want knowing the lower and upper value
     
     #convert RGB to HSV
     hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
