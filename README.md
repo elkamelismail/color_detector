@@ -3,7 +3,7 @@
 
 
 
-Here i detect only yellow but we can detect all the colors that we want !!
+Here I detect only RED and BLUE and GREEN but we can detect all the colors that we want !!
 
 Color detection can be used in a variety of applications and industries. Here are some examples:
 
